@@ -3,7 +3,6 @@
 ## Graduado en Edificación por la Universidad de Granada
 ### Arquitecto técnico en Tabic Office of Architecture
 
-*Consulta mi perfil en* [Github](https://github.com/Ramallin/Ramallin) 
 
 <img src="concasco.png" width=150 height=200>
 
